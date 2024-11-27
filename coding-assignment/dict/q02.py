@@ -1,4 +1,2 @@
-s1 = "Hello"
-s2 = "World"
-result = s1 + " " + s2
-print(result)
+student = {"name": "John", "age": 20, "grade": "A"}
+print(student["age"])  # Output: 20
