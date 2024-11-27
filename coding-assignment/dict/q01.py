@@ -1,2 +1,2 @@
-my_string = "Hello, Python!"
-print(my_string)
+student = {"name": "John", "age": 20, "grade": "A"}
+print(student)
